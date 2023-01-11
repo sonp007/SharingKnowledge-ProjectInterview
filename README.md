@@ -1,8 +1,5 @@
 # SharingKnowledge-ProjectInterview
-<<<<<<< HEAD
 
-=======
->>>>>>> 11873d4225dda329a3d22d83d0e0e1bbc6ebcd7f
 ---
 
 `This repo aims to focus on code demo on every topic of Javascript, Angular, HTML, CSS...`
